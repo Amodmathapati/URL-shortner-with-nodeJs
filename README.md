@@ -44,10 +44,11 @@ Make sure to set up your MongoDB connection URI in a `keys.js` file.
 module.exports = {
   mongoURI: 'YOUR_MONGODB_CONNECTION_URI',
 };
+```
 
 ## Usage 🚀
-Access the homepage to view statistics.
-Shorten a URL by submitting it through the provided form.
+- Access the homepage to view statistics.
+- Shorten a URL by submitting it through the provided form.
 
 ## Contributing 🤝
-Contributions are welcome! Feel free to open issues or submit pull requests.
+- Contributions are welcome! Feel free to open issues or submit pull requests.
